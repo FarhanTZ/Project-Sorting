@@ -1,0 +1,7 @@
+2;Farhan;JalanJalan;0822111111
+8;Farhan;JalanJalan;0822111111
+4;Farhan;JalanJalan;0822111111
+2;Farhan;JalanJalan;0822111111
+5;Farhan;JalanJalan;0822111111
+2;Farhan;JalanJalan;0822111111
+5;Farhan;JalanJalan;0822111111
